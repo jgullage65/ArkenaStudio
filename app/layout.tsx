@@ -13,8 +13,8 @@ const ogImage =
 
 const clerkAppearance = {
   layout: {
-    logoImageUrl: "/image/Arkenalogo.png",
-    logoLinkUrl: "/ai-builder",
+    logoImageUrl: "/apple-touch-icon.png",
+    logoLinkUrl: "/",
     socialButtonsVariant: "blockButton" as const,
   },
   variables: {
